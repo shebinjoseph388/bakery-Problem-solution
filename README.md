@@ -1,0 +1,2 @@
+# bakery-Problem-solution
+A bakery is selling all kind of bread and recently it decided to sell them in packs.   So, there are three kinds of breads:   Baguette   - 3 packs at R10  - 5 packs at R13 Maison   - 2 pack at R6  - 5 pack at R10  - 8 pack at R12 Toast   - 3 pack at R6  - 5 pack at R9  - 9 pack at R16   Given a customer that wants to buy 14 Maison, it breaks down as follows  1 x 8 pack = R12  3 x 2 pack - R18   Total payable = 30. 
